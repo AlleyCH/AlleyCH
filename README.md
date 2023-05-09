@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Java](https://github.com/AlleyCH/DataStructureAndAl)
+  - [Practicing  DS & Algos in Java](https://github.com/AlleyCH/DataStructureAndAl)
 - <b>Full Stack Web App (NodeJS, Heroku, and authentication Components)</b>
   - [Portfolio](https://github.com/AlleyCH/Portfolio)
 - <b>C# (.NET Desktop Applications)</b>
