@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alley! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/alleychaggar/">Gamer</a></h1>
+<h1>Hi, I'm Alley! <br/><a href="https://github.com/AlleyCH">Programmer</a>, <a href="https://www.linkedin.com/in/alleychaggar/">Gamer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
