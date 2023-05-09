@@ -11,7 +11,7 @@
   - [C# programs (programming II)](https://github.com/AlleyCH/ProgrammingII)
   - [Unity game project](https://github.com/AlleyCH/Grimrage)
 - <b>C++ (.NET Desktop Applications)</b>
-  - [C++ related console programs](https://github.com/AlleyCH/CPPGameDev)
+  - [C++ related console programs](https://github.com/AlleyCH/CPPGameDevWithLab6AndMidterm)
 - <b>Java</b>
   - [Java related console programs](https://github.com/AlleyCH/JavaCourse228)
 
