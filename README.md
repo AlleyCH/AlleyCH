@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alley! <br/><a href="https://github.com/AlleyCH">Programmer</a>, <a href="https://www.linkedin.com/in/alleychaggar/">Gamer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👩🏽‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Practicing  DS & Algos in Java](https://github.com/AlleyCH/DataStructureAndAl)
