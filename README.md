@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Practicing  DS & Algos in Java](https://github.com/AlleyCH/DataStructureAndAl)
-- <b>Full Stack Web App (NodeJS, Three.js, and authentication Components)</b>
+- <b>Full Stack Web App (NodeJS and Three.js)</b>
   - [Game Library Management System](https://github.com/AlleyCH/GamingLibraryManagementSystem)
 - <b>C# (.NET Desktop Applications)</b>
   - [Basic programming (programming I)](https://github.com/AlleyCH/ProgrammingI)
